@@ -1,0 +1,19 @@
+# Identify tools that will allow you to do the following:
+
+## Scan infrastructure as code templates
+Checkov can be used to scan code templates.
+
+### Example vulnerability
+It can scan for misconfigurations such as public accessible SSH, icnternet-accessible databases, opensecurity groups, etc.
+
+##Scan AMI’s or containers for OS vulnerabilities
+Anchore can be used to scan Docker images.
+
+### Example vulnerability
+It can scan for safety vulnerabilities in the artifacts used in the images.
+
+##Scan an AWS environment for cloud configuration vulnerabilities
+AWS Config can be used to scan the AWS environment for vulnerabilities.
+
+### Example vulnerability
+Supports change management processes by keeping track of the created, updated, and deleted resources while notifying you about any modification.

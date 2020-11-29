@@ -1,0 +1,8 @@
+Research and analyze which of the vulnerabilities appear to be related to the code that was deployed for the environment in this project.
+
+ UDP ports are reachable from the internet.
+ 
+ TCP ports are reachable from the internet. 
+ 
+ Ensure that security groups limit access from these ports.
+ 
